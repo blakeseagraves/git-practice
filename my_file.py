@@ -3,6 +3,7 @@ print('Hello world')
 
 def hi_there():
     print('Hi there')
+    print('Hi')
 
     
 def hey_there():
