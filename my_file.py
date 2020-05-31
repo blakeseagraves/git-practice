@@ -10,3 +10,4 @@ def hey_there():
 
 def howdy_there():
     print('Howdy there')
+    print('howdy howdy')
