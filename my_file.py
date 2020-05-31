@@ -7,3 +7,6 @@ def hi_there():
     
 def hey_there():
     print('Hey there')
+
+def howdy_there():
+    print('Howdy there')
