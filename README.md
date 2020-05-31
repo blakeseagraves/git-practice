@@ -7,4 +7,5 @@
 > rebase testing
 > more rebase testing
 
-> stash testing
+> stash testing, git pull git fetch
+> more changes
