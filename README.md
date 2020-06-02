@@ -1,6 +1,6 @@
 # Git practice
 
-> git practice
+> git practice merge conflict
 
 > branch testing
 
